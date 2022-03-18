@@ -5,6 +5,6 @@ import org.junit.*;
 public class sktest {
     @Test
     public void addition() {
-        assertEquals(2, sk.add(0,0));
+        assertEquals(0, sk.add(0,0));
     }
 }
